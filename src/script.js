@@ -11,11 +11,13 @@ add.addEventListener('click', function () {
 // adding method to decrement number
 remove.addEventListener('click', function () {
     integer -= 1;
-    number.innerHTML = integer;
-
     if(integer<=0){
         integer=0;  
    }
+  
+    number.innerHTML = integer;
+
+ 
 
        
   
