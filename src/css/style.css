@@ -2,13 +2,15 @@
 {
     display:flex;
     justify-content: center;
+    margin-top: 62px;
 }
+
 .two
 {
-background: #ffffff;
-border: 1px solid #eeeeee;
-padding: 13px 18px;
-width: 17px;
+    background: #ffffff;
+    border: 1px solid #eeeeee;
+    padding: 13px 18px;
+    width: 1%;
 }
 .btn1
 {
