@@ -1,0 +1,33 @@
+.counter
+{
+    display:flex;
+    justify-content: center;
+}
+.two
+{
+background: #ffffff;
+border: 1px solid #eeeeee;
+padding: 13px 18px;
+width: 17px;
+}
+.btn1
+{
+    padding: 14px;
+    border:1px solid #eeeeee;
+    border-radius: 7px 0px 2px 10px;
+}
+.btn2
+{
+    padding:14px;
+    border:1px solid #eeeeee;
+    border-radius: 1px 11px 10px 2px;
+    width:50px;
+}
+
+.btn1
+{
+padding: 14px;
+border: 1px solid #eeeeee;
+border-radius: 7px 0px 2px 10px;
+width: 50px;
+}
